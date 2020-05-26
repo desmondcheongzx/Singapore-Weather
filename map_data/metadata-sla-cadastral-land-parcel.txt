@@ -1,0 +1,42 @@
+# Metadata for SLA Cadastral Land Parcel
+---
+Identifier: '802a177d-fe4d-41fe-854a-8dfe7c77cb79'
+Name: 'sla-cadastral-land-parcel'
+Title: 'SLA Cadastral Land Parcel'
+Description: 'This dataset is the finished product of the Singapore Land Authority.
+  It depicts the entire cadastral map of Singapore. This dataset contains polygons
+  which graphically show the approximate coordinated boundaries (nearest cm) of each
+  surveyed land parcel (or land lot) in Singapore.'
+Topics:
+  - 'Infrastructure'
+Keywords:
+  - 'SVY 21'
+  - 'boundaries'
+  - 'cadastral'
+  - 'land lot'
+  - 'land parcel'
+  - 'surveyed data'
+Publisher:
+  Name: 'Singapore Land Authority'
+  Admin 1:
+    Name: 'Yee Sook Ching'
+    Department: 'SINGAPORE LAND AUTHORITY'
+    Email: 'sla_agencyadmin@sla.gov.sg'
+Sources:
+  - 'Singapore Land Authority'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Weekly'
+Last Updated: '2020-05-23T00:01:05.817816'
+Resources:
+  -
+    Identifier: '60f3d2ca-e058-4a7a-9dbc-5b7df2d9cd19'
+    Title: 'SLA Cadastral Land Parcel (KML)'
+    Url: 'https://geo.data.gov.sg/cadastral-land-lot/2020/05/19/kml/cadastral-land-lot.kml'
+    Format: 'KML'
+    Last Updated: '2020-05-18T16:00:00'
+  -
+    Identifier: '8688eeaa-3430-44e4-8870-a8ad5b51a4f5'
+    Title: 'SLA Cadastral Land Parcel (GEOJSON)'
+    Url: 'https://geo.data.gov.sg/cadastral-land-lot/2020/05/19/geojson/cadastral-land-lot.geojson'
+    Format: 'GeoJSON'
+    Last Updated: '2020-05-18T16:00:00'
